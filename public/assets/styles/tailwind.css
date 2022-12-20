@@ -3774,6 +3774,10 @@ select {
     margin-top: 16rem;
   }
 
+  .md\:mr-64 {
+    margin-right: 16rem;
+  }
+
   .md\:ml-64 {
     margin-left: 16rem;
   }
@@ -3846,6 +3850,10 @@ select {
 
   .md\:left-0 {
     left: 0px;
+  }
+
+  .md\:right-0 {
+    right: 0px;
   }
 
   .md\:shadow-none {
